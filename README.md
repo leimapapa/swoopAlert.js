@@ -27,3 +27,8 @@ jQuery-dependent library for alerts that swoop in from the side and then swoop o
 See it in action here:
 
 https://codepen.io/leimapapa/pen/QWvWOaY
+
+
+## CDN
+
+https://cdn.jsdelivr.net/gh/leimapapa/swoopAlert.js/swoopalert.min.js
